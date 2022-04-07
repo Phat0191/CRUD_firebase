@@ -9,3 +9,8 @@ input,select{
 h1{
     color: red;
 }
+
+/* test 1 commit cho 2 branch and fix conflict */
+h3{
+    color: black;
+}
