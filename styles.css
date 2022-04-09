@@ -6,6 +6,9 @@ input,select{
     width: 120px;
     margin-top: 10px;
 }
+h2{
+    color: black
+}
 h1{
     color: red;
 }
