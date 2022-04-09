@@ -6,6 +6,9 @@ input,select{
     width: 120px;
     margin-top: 10px;
 }
+h3{
+    text-decoration: none;
+}
 h2{
     color: black
 }
